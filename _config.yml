@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "ECE PhD student at University of Illinois Urbana-Champaign"
   location         : "Champaign, IL"
-  employer         : "University of Illinois Urbana-Champaign"
+  employer         : "UIUC"
   uri              : # URL
   email            : "ffardno2@illinois.edu" 
 
@@ -53,12 +53,12 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : "https://www.goodreads.com/user/show/95191500-fatemeh-fardno"
+  goodreads        : # "https://www.goodreads.com/user/show/95191500-fatemeh-fardno"
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/fatemeh-fardno/"
+  linkedin         : "fatemeh-fardno/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -66,7 +66,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/FFardno"
+  twitter          : "FFardno"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
