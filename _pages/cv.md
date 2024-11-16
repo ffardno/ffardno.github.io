@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 redirect_to: 
-  - http://academicpages.github.io/files/CV_FatemehFardno.pdf
+  - http://ffardno.github.io/files/CV_FatemehFardno.pdf
 ---
 
 {% include base_path %}
