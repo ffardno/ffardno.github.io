@@ -21,7 +21,7 @@ repository               : "https://ffardno.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_9885.jpg"
+  avatar           : "IMG_9885.png"
   name             : "Fatemeh Fardno"
   pronouns         : # example: "she/her"  
   bio              : "ECE PhD student at University of Illinois Urbana-Champaign"
