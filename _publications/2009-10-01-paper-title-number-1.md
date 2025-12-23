@@ -2,7 +2,7 @@
 title: "A game-theoretic framework for distributed load balancing: Static and dynamic game models"
 collection: publications
 category: Journal Articles
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /_publications/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-11-01
 venue: 'Journal Articles'
