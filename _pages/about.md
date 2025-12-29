@@ -15,5 +15,6 @@ I completed my undergraduate degree in Electrical Engineering at [Sharif Univers
 
 Before starting my PhD, I worked as a software engineer at [Microchip Technology](https://www.microchip.com/) in Toronto, Canada. 
 
+## Publications
 
 
