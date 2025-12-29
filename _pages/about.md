@@ -17,4 +17,10 @@ Before starting my PhD, I worked as a software engineer at [Microchip Technology
 
 ## Publications
 
+* ### [A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models](https://www.sciencedirect.com/science/article/abs/pii/S0005109825006958)
+    * With Rasoul Etesami
+    * *Automatica*, vol. 185, pp. 112796, March 2026.
+   
+
+
 
