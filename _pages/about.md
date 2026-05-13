@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD student in the [Electrical and Computer Engineering (ECE)](https://ece.illinois.edu/) department and the [Coordinated Science Laboratory (CSL)](https://csl.illinois.edu/) at the University of Illinois Urbana-Champaign. My advisor is [Dr. S. Rasoul Etesami](https://etesami.ise.illinois.edu/). 
+I am a PhD Candidate in the [Electrical and Computer Engineering (ECE)](https://ece.illinois.edu/) department and the [Coordinated Science Laboratory (CSL)](https://csl.illinois.edu/) at the University of Illinois Urbana-Champaign. My advisor is [Dr. S. Rasoul Etesami](https://etesami.ise.illinois.edu/). 
 
 I am interested in game theory and reinforcement learning. In particular, I am passionate about problems involving decision-making under uncertainty, especially in multi-agent environments. I like studying agents' behaviours in presence of other agents, especially when their interests are not aligned. I am also interested in large-scale multi-agent reinforcement learning.
 
