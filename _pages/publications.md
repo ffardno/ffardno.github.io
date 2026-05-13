@@ -6,15 +6,15 @@ author_profile: true
 
 ## Ongoing Work
 
-* ### [Efficient and Independent Learning of Nash Equilibrium Policies in Markov Aggregative Games]
+* ### Efficient and Independent Learning of Nash Equilibrium Policies in Markov Aggregative Games
   * With S. Rasoul Etesami
  
-* ### [Dynamic Newsvendor Inventory Problem]
+* ### Dynamic Newsvendor Inventory Problem
   * With Ameya Anjarlekar and S. Rasoul Etesami 
 
 ## Preprints
 
-* ### [Dynamic Transaction Scheduling and Pricing in the Ethereum Mempool]
+* ### Dynamic Transaction Scheduling and Pricing in the Ethereum Mempool
   * With S. Rasoul Etesami
 
 
