@@ -40,15 +40,6 @@ Before starting my PhD, I worked as a software engineer at [Microchip Technology
 
 - **[Jan]** My first PhD paper titled [*“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*](https://arxiv.org/abs/2501.15324v1) is now available on arXiv!
 
-## Publications
-
-* ### [A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models](https://www.sciencedirect.com/science/article/abs/pii/S0005109825006958)
-    * With Rasoul Etesami
-    * *Automatica*, vol. 185, pp. 112796, March 2026.
-
-* ### [Power allocation of sensor transmission for remote estimation over an unknown Gilbert-Elliott channel](https://ieeexplore.ieee.org/abstract/document/9143632)
-    * With Tahmoores Farjam and Themistoklis Charalambous
-    * *European Control Conference (ECC)*, St. Petersburg, Russia, May 2020.
    
 
 
