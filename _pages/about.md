@@ -40,6 +40,10 @@ Before starting my PhD, I worked as a software engineer at [Microchip Technology
 
 - **[Jan]** My first PhD paper titled [*“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*](https://arxiv.org/abs/2501.15324v1) is now available on arXiv!
 
+
+### 📌 2024
+
+- **[Jan]** I started my PhD in ECE at UIUC!
    
 
 
