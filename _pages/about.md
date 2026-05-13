@@ -25,7 +25,7 @@ Before starting my PhD, I worked as a software engineer at [Microchip Technology
 
 - **Apr**
   - Presented my poster titled *“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*  
-    at the [12th Midwest Workshop on Control and Game Theory (MWCGT)]([https://studentconference.csl.illinois.edu/](https://sites.google.com/view/mwcgt/home?authuser=0)) at Purdue University.
+    at the [12th Midwest Workshop on Control and Game Theory (MWCGT)](https://sites.google.com/view/mwcgt/home?authuser=0) at Purdue University.
 
 - **Mar**
   - Our paper titled [*“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*](https://www.sciencedirect.com/science/article/abs/pii/S0005109825006958) is published at Automatica!
