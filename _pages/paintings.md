@@ -4,9 +4,7 @@ permalink: /paintings/
 author_profile: true
 ---
 
-## Paintings
-
-I enjoy playing piano and painting. Below are some of my paintings.
+I like playing piano and painting. Below are some of my paintings.
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 60px;">
