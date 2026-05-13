@@ -15,6 +15,30 @@ I completed my undergraduate degree in Electrical Engineering at [Sharif Univers
 
 Before starting my PhD, I worked as a software engineer at [Microchip Technology](https://www.microchip.com/) in Toronto, Canada. 
 
+## News
+
+### 2026
+
+- **Apr**
+  - Received the [James W. Beauchamp Award for Interdisciplinary Research](https://ece.illinois.edu/academics/grad/awards/beauchamp).
+
+
+- **Apr**
+  - Presented my poster titled *“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*  
+    at the [12th Midwest Workshop on Control and Game Theory (MWCGT)]([https://studentconference.csl.illinois.edu/](https://sites.google.com/view/mwcgt/home?authuser=0)) at Purdue University.
+
+- **Mar**
+  - Our paper titled [*“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*](https://www.sciencedirect.com/science/article/abs/pii/S0005109825006958) is published at Automatica!
+
+- **Feb**
+  - I won the Best Poster Award at the [CSL Student Conference 2026](https://studentconference.csl.illinois.edu/).
+
+- **Feb**
+  - Presented my poster titled *“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*  
+    at the [CSL Student Conference 2026](https://studentconference.csl.illinois.edu/).
+
+
+
 ## Publications
 
 * ### [A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models](https://www.sciencedirect.com/science/article/abs/pii/S0005109825006958)
