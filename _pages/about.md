@@ -39,7 +39,7 @@ Before starting my PhD, I worked as a software engineer at [Microchip Technology
   - Presented my poster titled *“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*  
     at the [CSL Student Conference 2026](https://studentconference.csl.illinois.edu/).
 
-
+### 📌 2025
 
 ## Publications
 
