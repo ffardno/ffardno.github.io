@@ -9,7 +9,7 @@ author_profile: true
 I enjoy playing piano and painting. Below are some of my paintings.
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+<div style="display: flex; flex-wrap: wrap; gap: 60px;">
   <img src="/images/painting1.jpeg" width="350">
   <img src="/images/painting2.jpeg" width="350">
   <img src="/images/painting3.jpeg" width="350">
