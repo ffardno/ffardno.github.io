@@ -23,27 +23,21 @@ Before starting my PhD, I worked as a software engineer at [Microchip Technology
  
 - **[Apr]** Attended the [SIG](https://sig.com/) PhD Discovery Summit in New York City!
         
-- **[Apr]**
-  - Presented my poster titled *“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*  
+- **[Apr]** Presented my poster titled *“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*  
     at the [12th Midwest Workshop on Control and Game Theory (MWCGT)](https://sites.google.com/view/mwcgt/home?authuser=0) at Purdue University.
 
-- **[Mar]**
-  - Our paper titled [*“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*](https://www.sciencedirect.com/science/article/abs/pii/S0005109825006958) is published at Automatica!
+- **[Mar]** Our paper titled [*“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*](https://www.sciencedirect.com/science/article/abs/pii/S0005109825006958) is published at Automatica!
 
-- **[Feb]**
-  - I won the Best Poster Award at the [CSL Student Conference 2026](https://studentconference.csl.illinois.edu/).
+- **[Feb]** Won the Best Poster Award at the [CSL Student Conference 2026](https://studentconference.csl.illinois.edu/).
 
-- **[Feb]**
-  - Presented my poster titled *“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*  
+- **[Feb]** Presented my poster titled *“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*  
     at the [CSL Student Conference 2026](https://studentconference.csl.illinois.edu/).
 
 ### 📌 2025
 
-- **[Apr]**
-  - Passed the Qualifying Exam and advanced to PhD candidacy.
+- **[Apr]** Passed the Qualifying Exam and advanced to PhD candidacy.
 
-- **[Jan]**
-  - My first PhD paper titled [*“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*](https://arxiv.org/abs/2501.15324v1) is now available on arXiv!
+- **[Jan]** My first PhD paper titled [*“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*](https://arxiv.org/abs/2501.15324v1) is now available on arXiv!
 
 ## Publications
 
