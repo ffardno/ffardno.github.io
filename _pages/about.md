@@ -18,13 +18,13 @@ Before starting my PhD, I worked as a software engineer at [Microchip Technology
 ## News
 
 ### 📌 2026
-
-- **[Apr]** Received the [James W. Beauchamp Award for Interdisciplinary Research](https://ece.illinois.edu/academics/grad/awards/beauchamp).
- 
-- **[Apr]** Attended the [SIG](https://sig.com/) PhD Discovery Summit in New York City!
         
 - **[Apr]** Presented my poster titled *“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*  
     at the [12th Midwest Workshop on Control and Game Theory (MWCGT)](https://sites.google.com/view/mwcgt/home?authuser=0) at Purdue University.
+
+- **[Apr]** Received the [James W. Beauchamp Award for Interdisciplinary Research](https://ece.illinois.edu/academics/grad/awards/beauchamp).  
+
+- **[Apr]** Attended the [SIG](https://sig.com/) PhD Discovery Summit in New York City!  
 
 - **[Mar]** Our paper titled [*“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*](https://www.sciencedirect.com/science/article/abs/pii/S0005109825006958) is published at Automatica!
 
