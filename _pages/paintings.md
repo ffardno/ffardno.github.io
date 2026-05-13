@@ -1,10 +1,10 @@
 ---
-title: "Art"
-permalink: /art/
+title: "Paintings"
+permalink: /paintings/
 author_profile: true
 ---
 
-## Art
+## Paintings
 
 In my free time, I enjoy playing piano and painting.  
 Here are some of my paintings.
