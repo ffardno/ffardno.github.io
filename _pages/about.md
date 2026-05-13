@@ -17,7 +17,7 @@ Before starting my PhD, I worked as a software engineer at [Microchip Technology
 
 ## News
 
-### 📅 2026
+### 📌 2026
 
 - **[Apr]**
   - Received the [James W. Beauchamp Award for Interdisciplinary Research](https://ece.illinois.edu/academics/grad/awards/beauchamp).
