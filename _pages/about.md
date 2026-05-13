@@ -19,11 +19,9 @@ Before starting my PhD, I worked as a software engineer at [Microchip Technology
 
 ### 📌 2026
 
-- **[Apr]**
-  - Received the [James W. Beauchamp Award for Interdisciplinary Research](https://ece.illinois.edu/academics/grad/awards/beauchamp).
+- **[Apr]** Received the [James W. Beauchamp Award for Interdisciplinary Research](https://ece.illinois.edu/academics/grad/awards/beauchamp).
  
-- **[Apr]**
-  - Attended the [SIG](https://sig.com/) PhD Discovery Summit in New York City!
+- **[Apr]** Attended the [SIG](https://sig.com/) PhD Discovery Summit in New York City!
         
 - **[Apr]**
   - Presented my poster titled *“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*  
