@@ -41,6 +41,12 @@ Before starting my PhD, I worked as a software engineer at [Microchip Technology
 
 ### 📌 2025
 
+- **[Apr]**
+  - Passed the Qualifying Exam and advanced to PhD candidacy.
+
+- **[Jan]**
+  - My first PhD paper titled [*“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*](https://arxiv.org/abs/2501.15324v1) is now available on arXiv!
+
 ## Publications
 
 * ### [A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models](https://www.sciencedirect.com/science/article/abs/pii/S0005109825006958)
