@@ -14,7 +14,7 @@ author_profile: true
 
 ## Preprints
 
-* ### Dynamic Transaction Scheduling and Pricing in the Ethereum Mempool
+* ### [Dynamic Transaction Scheduling and Pricing in the Ethereum Mempool](https://arxiv.org/abs/2605.12794)
   * With S. Rasoul Etesami
 
 
