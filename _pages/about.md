@@ -36,6 +36,9 @@ Before starting my PhD, I worked as a software engineer at [Microchip Technology
 
 ### 📌 2025
 
+- **[Sep]** Presented my poster titled *“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*  
+    at the [61st Allerton Conference on Communication, Control, and Computing](https://allerton.csl.illinois.edu/).
+
 - **[Apr]** Passed the Qualifying Exam and advanced to PhD candidacy.
 
 - **[Jan]** My first PhD paper titled [*“A Game-Theoretic Framework for Distributed Load Balancing: Static and Dynamic Game Models”*](https://arxiv.org/abs/2501.15324v1) is now available on arXiv!
