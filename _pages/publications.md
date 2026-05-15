@@ -5,9 +5,6 @@ author_profile: true
 ---
 
 ## Ongoing Work
-
-* ### Efficient and Independent Learning of Nash Equilibrium Policies in Markov Aggregative Games
-  * With S. Rasoul Etesami
  
 * ### Dynamic Newsvendor Inventory Problem
   * With Ameya Anjarlekar and S. Rasoul Etesami 
