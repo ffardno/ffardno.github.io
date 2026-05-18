@@ -19,6 +19,7 @@ Before starting my PhD, I worked as a software engineer at [Microchip Technology
 
 ### 📌 2026
 
+- **[May]** Our new paper, titled [*“Dynamic Transaction Scheduling and Pricing in the Ethereum Mempool”*](https://arxiv.org/abs/2605.12794), is now available on arXiv. 
 
 - **[Apr]** Received the [James W. Beauchamp Award for Interdisciplinary Research](https://ece.illinois.edu/academics/grad/awards/beauchamp).  
         
