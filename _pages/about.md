@@ -15,7 +15,7 @@ More recently, I have been exploring preference-based learning and RLHF, where p
 
 I received my B.Sc. in Electrical Engineering from [Sharif University of Technology](https://www.ee.sharif.ir/en/) in Iran, followed by an M.A.Sc. in Electrical and Computer Engineering from the [University of Waterloo](https://uwaterloo.ca/electrical-computer-engineering/). My thesis is available [here](https://uwspace.uwaterloo.ca/items/712ba706-387e-4319-92ea-e2e812cd8e9d).
 
-Before starting my PhD, I worked as a software engineer at [Microchip Technology](https://www.microchip.com/) in Toronto, Canada. 
+Before starting my PhD, I worked as a Software Engineer at the Timing, Power, and Modeling Group at [Microchip Technology](https://www.microchip.com/) in Toronto, Canada. 
 
 ## News
 
