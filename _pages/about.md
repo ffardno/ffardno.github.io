@@ -13,9 +13,7 @@ I am interested in understanding how intelligent agents learn and make decisions
 
 More recently, I have been exploring preference-based learning and RLHF, where preferences are used instead of explicit reward functions to guide learning. I am particularly interested in how these ideas can be used to build more capable and human-aligned decision-making systems.
 
-I received my B.Sc. in Electrical Engineering from [Sharif University of Technology](https://www.ee.sharif.ir/en/) in Iran, followed by an M.A.Sc. in Electrical and Computer Engineering from the [University of Waterloo](https://uwaterloo.ca/electrical-computer-engineering/).
-
-During my master's studies, I worked on reinforcement learning and game-theoretic approaches for distributed load balancing. My thesis introduced a fictitious mean-field reinforcement learning framework that enables efficient learning in large-scale distributed systems. The work combines ideas from multi-agent reinforcement learning, mean-field games, and distributed optimization to improve load balancing performance while maintaining scalability. My thesis is available [here](https://uwspace.uwaterloo.ca/items/712ba706-387e-4319-92ea-e2e812cd8e9d).
+I received my B.Sc. in Electrical Engineering from [Sharif University of Technology](https://www.ee.sharif.ir/en/) in Iran, followed by an M.A.Sc. in Electrical and Computer Engineering from the [University of Waterloo](https://uwaterloo.ca/electrical-computer-engineering/). My thesis is available [here](https://uwspace.uwaterloo.ca/items/712ba706-387e-4319-92ea-e2e812cd8e9d).
 
 Before starting my PhD, I worked as a software engineer at [Microchip Technology](https://www.microchip.com/) in Toronto, Canada. 
 
