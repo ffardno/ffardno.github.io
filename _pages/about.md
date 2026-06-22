@@ -9,9 +9,13 @@ redirect_from:
 
 I am a PhD candidate in the [Electrical and Computer Engineering (ECE)](https://ece.illinois.edu/) department and the [Coordinated Science Laboratory (CSL)](https://csl.illinois.edu/) at the University of Illinois Urbana-Champaign. My advisor is [Dr. S. Rasoul Etesami](https://etesami.ise.illinois.edu/). 
 
-I am interested in game theory and reinforcement learning. In particular, I am passionate about problems involving decision-making under uncertainty, especially in multi-agent environments. I like studying agents' behaviours in presence of other agents, especially when their interests are not aligned. I am also interested in large-scale multi-agent reinforcement learning.
+I am interested in understanding how intelligent agents learn and make decisions in dynamic environments, especially when multiple agents interact and their interests are not aligned. My research combines ideas from reinforcement learning and game theory to model these systems and develop efficient learning algorithms that allow agents to learn independently from experience.
 
-I completed my undergraduate degree in Electrical Engineering at [Sharif University of Technology](https://www.ee.sharif.ir/en/), Iran. I then completed my master's degree in ECE at [University of Waterloo](https://uwaterloo.ca/electrical-computer-engineering/), under supervision of [Dr. S. Majid Zahedi](https://ece.uwaterloo.ca/~smzahedi/). During my master's, I developed a fictitious mean-field reinforcement learning algorithm that works efficiently for load balancing problem in distributed systems. My thesis can be found [here](https://uwspace.uwaterloo.ca/items/712ba706-387e-4319-92ea-e2e812cd8e9d).
+More recently, I have been exploring preference-based learning and RLHF, where preferences are used instead of explicit reward functions to guide learning. I am particularly interested in how these ideas can be used to build more capable and human-aligned decision-making systems.
+
+I received my B.Sc. in Electrical Engineering from [Sharif University of Technology](https://www.ee.sharif.ir/en/) in Iran, followed by an M.A.Sc. in Electrical and Computer Engineering from the [University of Waterloo](https://uwaterloo.ca/electrical-computer-engineering/).
+
+During my master's studies, I worked on reinforcement learning and game-theoretic approaches for distributed load balancing. My thesis introduced a fictitious mean-field reinforcement learning framework that enables efficient learning in large-scale distributed systems. The work combines ideas from multi-agent reinforcement learning, mean-field games, and distributed optimization to improve load balancing performance while maintaining scalability. My thesis is available [here](https://uwspace.uwaterloo.ca/items/712ba706-387e-4319-92ea-e2e812cd8e9d).
 
 Before starting my PhD, I worked as a software engineer at [Microchip Technology](https://www.microchip.com/) in Toronto, Canada. 
 
